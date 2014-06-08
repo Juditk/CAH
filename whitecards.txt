@@ -41,3 +41,59 @@
 [White]["When your start up IPOs."]
 
 [White]["Turning down $3b from Facebook."]
+
+[White][“Chamfered edges”]
+
+[White][“The crazy ones.”]
+
+[White][“Lunchtime talks at WWDC.”]
+
+[White][“An Apple Design Award.”]
+
+[White][“The WWDC Bash.”]
+
+[White][“Tim Cook is Proud of Apple.”]
+
+[White][“The Anki Drive Demo.]
+
+[White][“Places in California are the new big cats.“]
+
+[White][“Aah-loo-min-ee-um”]
+
+[White][“Engineered with Precision.”]
+
+[White][“The line to enter the WWDC keynote.”]
+
+[White][“Our ‘new’ service, ‘TestFlight’”]
+
+[White][“Developers. Developers. Developers.”]
+
+[White][“Journalists photographing Moscone Center a week before WWDC.”]
+
+[White][“Phil Schiller’s new movie: ‘The Black Knight.’”]
+
+[White][“Continuity”]
+
+[White][“Tim Cook’s southern accent.”]
+
+[White][“The line/queue was too long.”]
+
+[White][“It’s available. Today.”]
+
+[White][“Steve Jobs”]
+
+[White][“Tim Cook”]
+
+[White][“Craig Federighi”]
+
+[White][“Phil Schiller”]
+
+[White][“Jony Ive”]
+
+[White][“Bob Mansfield”]
+
+[White][“Steve Wozniak”]
+
+[White][“Scott Forstall”]
+
+[White][“Your neighborhood friendly Apple developer evangelist.”]

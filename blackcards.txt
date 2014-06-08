@@ -43,3 +43,32 @@
 [Black]["I tried to use Apple maps to get directions and I accidently ended up at ________________."]
 
 [Draw2][Black]["We are proud to announce the new ________________, codename ________________."]
+[Black][“I was asked to leave a WWDC session because I wouldn’t stop playing with _______.]
+
+[Black][“I won a WWDC scholarship on the merit of _______ alone.“]
+
+[Black][“I’m not allowed to tell people what I do at Apple so I tell them that I work on _______.”]
+
+[Black][“My iPhone 7 runs on _______ instead of batteries.”]
+
+[Black][“My _______ has chamfered edges.”]
+
+[Black][“I beat Craig Federighi at _______. He paid me not to tell anyone.”]
+
+[Black][“I received an email from Apple Developer about because a user blew up _______ with their iPhone.”]
+
+[Black][“The craziest place I’ve stored my iPhone was in my _______.]
+
+[Black][“I got fired because I left my iPhone prototype in _______.”]
+
+[Black][“Apple’s next acquisition will be _______.”]
+
+[Black][“It’s our best _______ yet.”]
+
+[Black][“Tim Cook introduces a new product. ‘And we’re calling it _______.’”]
+
+[Black][“Craig Federighi introduces a new product. ‘And we’re calling it _______.’”]
+
+[Black][“Phil Schiller introduces a new product. ‘And we’re calling it _______.’”]
+
+[Black][“And to tell you more about _______, I’d like to invite Craig Federighi back onstage.“]
