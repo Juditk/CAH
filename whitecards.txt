@@ -1,0 +1,43 @@
+[White]["Johnny Ive's invisible burrito."]
+
+[White]["Craig Federighi’s hair."]
+
+[White]["Hair Force One."]
+
+[White]["Swift."
+
+[White]["The Cheesecake Factory."]
+
+[White]["No more Odwalla."]
+
+[White]["Lining up for the WWDC Keynote at 3am".]
+
+[White]["Xcode crashes."]
+
+[White]["Git merge conflicts."]
+
+[White]["Winning the WWDC lottery."]
+
+[White]["Sloppy code."]
+
+[White]["Phone conference with Dr. Dre."]
+
+[White]["Road trip to Weed, CA."]
+
+[White]["Transparency."]
+
+[White]["Hidden in a private API."]
+
+[White]["Ordered 4000 lattes from Starbucks."]
+
+[White]["The taste of garlic on your tongue after having dinner at the Stinking Rose."]
+
+[White]["Planking on the 1 Infinite Loop Sign."]
+
+[White]["Seattle’s best coffee."]
+
+[White]["It just works, seamlessly."]
+
+[White]["When your start up IPOs."]
+
+[White]["Turning down $3b from Facebook."]

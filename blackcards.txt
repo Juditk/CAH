@@ -1,0 +1,45 @@
+[Black]["Instead of the usual WWDC jacket, next year Apple will be giving out ____________ to developers."]
+
+[Black]["Why won’t my code compile?"]
+
+[Black]["My next killer app will be a game changer for ___________."]
+
+[Black]["Craig's hair is being held up by ________."]
+
+[Black]["I queued up outside the Apple Store to own their newly announced product, the i_______________."]
+
+[Black]["Instead of the usual WWDC jacket, next year Apple will be giving out ____________ to developers."]
+
+[Draw2][Black]["New app idea:  it's like _______ but for ________."]
+
+[Black]["My app crashed and the error that printed out was: ____________________."];
+
+[Black]["You have an afternoon in San Francisco. What do you do?"];
+
+[Draw2][Black]["I asked Siri about ______ and she responded with ________."]
+
+[Black]["Apple just Sherlocked my _______."] 
+
+[Black]["The best thing about this year's WWDC was _____."]
+
+[Black]["One more thing: ________."]
+
+[Black]["Xcode just crashed when I ________."]
+
+[Black]["The WiFi is down because _____."]
+
+[Black]["Performing next year at the WWDC Bash will be ________."]
+
+[Draw2][Black]["My app was rejected from the App Store because _______ caused _______ to fail."]
+
+[Black]["Codesigning failed because _________."]
+
+[Black]["My users complained when I __________."]
+
+[Black]["Jonny Ive cried when I ________."]
+
+[Black]["I stumped the experts by showing them ________."]
+
+[Black]["I tried to use Apple maps to get directions and I accidently ended up at ________________."]
+
+[Draw2][Black]["We are proud to announce the new ________________, codename ________________."]
