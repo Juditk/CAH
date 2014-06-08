@@ -13,3 +13,6 @@ For black cards:
 
 For white cards:
 [White]["Johnny Ive's invisible burrito."]
+
+For draw 2 cards, prefix them as follows:
+[Draw2][Black]["New App idea: it's like _______ but for ________."]
