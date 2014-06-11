@@ -72,3 +72,7 @@
 [Black][“Phil Schiller introduces a new product. ‘And we’re calling it _______.’”]
 
 [Black][“And to tell you more about _______, I’d like to invite Craig Federighi back onstage.“]
+
+[Black][“With just one line of code, you can ____________.”]
+
+[Black][“We’ve made the __________ 26% thinner.”]
