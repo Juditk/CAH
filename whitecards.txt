@@ -103,3 +103,23 @@
 [White][“Gradients”]
 
 [White][“Jony Ive’s grey shirt”]
+
+[White]["Literal constructs are quicker than alloc init."]
+
+[White]["Because of an enum"]
+
+[White]["Literals beat alloc inits"]
+
+[White]["Structs before Objects"]
+
+[White]["Structs have functions?"]
+
+[White]["Because Swift"]
+
+[White]["G4 Cube vs 25th Anniversary Mac"]
+
+[White]["NSEverything"]
+
+[White]["Jony Ive with a Craig Federighi wig"]
+
+[White]["XCODE hates me"]
