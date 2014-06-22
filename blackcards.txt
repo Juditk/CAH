@@ -81,3 +81,18 @@
 [Black]["Why does XCODE ____ me?"]
 
 [Draw2][Black]["XCODE does to ________________, what vi does to ________________."]
+
+[Black][“Because of my investment in Bitcoin, soon I'll be able to afford ______________.”]
+
+[Black]["Thanks to the sharing economy, I can now make money renting outmy __________________."]
+
+[Black]["What was the inspiration for my startup?"]
+
+[Black]["My company was just acquired by ______________."]
+
+[Black]["At my company, they feed us fresh ______________ at every meal."]
+
+[Black]["Silicon Valley is full of ______________."]
+
+[Black]["Facebook just bought ____________ for $3b."]
+

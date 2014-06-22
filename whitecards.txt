@@ -123,3 +123,7 @@
 [White]["Jony Ive with a Craig Federighi wig"]
 
 [White]["XCODE hates me"]
+
+[White]["Green bubble friends"]
+
+[White]["[REDACTED]"]
