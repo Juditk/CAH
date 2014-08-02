@@ -1,0 +1,33 @@
+White cards:
+
+[White][“Tony Gray’s left nipple.”]
+
+[White]["An anvil animation."]
+
+[White]["Elf ears."]
+
+[White]["Tony Abbott’s budgie smugglers."]
+
+[White]["Eating fush and chups.”]
+
+[White]["Tony Gray."]
+
+[White]["The AUC bus tour of Silicon Valley."]
+
+[White]["Lining up for the WWDC Keynote at 3am".]
+
+[White]["Throwing wine at the /dev/world quiz judges."]
+
+[White]["A performance of Gangnam Style at the /dev/world dinner."]
+
+[White]["A rendition of Bohemian Rhapsody on kazoos."]
+
+----------------------
+
+Black cards:
+
+[Black][“New rule in a game of Chairman Mao: when an ace is drawn, the player must ______________”]
+
+[Draw2][Black][“The keynote speaker at this years dev world will be _________ talking about ___________.”]
+
+[Black][“The AUC's budget was blown in one conference when thousands of dollars were spent on _______.”]

@@ -95,4 +95,3 @@
 [Black]["Silicon Valley is full of ______________."]
 
 [Black]["Facebook just bought ____________ for $3b."]
-
