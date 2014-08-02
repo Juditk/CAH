@@ -4,7 +4,7 @@
 
 [White]["Hair Force One."]
 
-[White]["Swift."
+[White]["Swift.”]
 
 [White]["The Cheesecake Factory."]
 
@@ -127,3 +127,11 @@
 [White]["Green bubble friends"]
 
 [White]["[REDACTED]"]
+
+[White][“NSLocalizedDescriptionKey.. *undo* NSLog…”]
+
+[White][“AVPlayerLayer* playerLayer = [AVPlayerLayer playerLayerWithPlayer:player];”]
+
+[White][“Tony Gray’s left nipple.”]
+
+[White][“Anvil animations.”]
