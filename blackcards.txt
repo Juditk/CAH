@@ -42,9 +42,9 @@
 
 [Black]["I tried to use Apple maps to get directions and I accidently ended up at ________________."]
 
-[Draw2][Black]["We are proud to announce the new ________________, codename ________________."]
+[Draw2][Black]["We are proud to announce OS X __________________."]
 
-[Black][“I was asked to leave a WWDC session because I wouldn’t stop playing with _______.]
+[Black][“Why was I asked to leave a WWDC session?]
 
 [Black][“I won a WWDC scholarship on the merit of _______ alone.“]
 
@@ -84,7 +84,7 @@
 
 [Black][“Because of my investment in Bitcoin, soon I'll be able to afford ______________.”]
 
-[Black]["Thanks to the sharing economy, I can now make money renting outmy __________________."]
+[Black]["Thanks to the sharing economy, I can now make money renting out my __________________."]
 
 [Black]["What was the inspiration for my startup?"]
 
@@ -95,3 +95,26 @@
 [Black]["Silicon Valley is full of ______________."]
 
 [Black]["Facebook just bought ____________ for $3b."]
+
+[Black]["Rumour has it, the new iPhone has a feature that lets you _________."]
+
+[Black]["What caused my live coding demo to go completely awry?"]
+
+[Black]["Studies show that programmers write better code after being exposed to ___________."]
+
+[Black]["To unlock the Easter Egg in my app, what does the user have to do?"]
+
+[Black]["New book coming soon: Swift Development with _______________."]
+
+[Black]["What is being used to encourage more kids to get into programing?"]
+
+[Black]["Programmers like _______________"]
+
+[Black]["I posted on Stack Overflow to get help with ____________"]
+
+[Draw2][Black]["let ________________ = _______________]
+
+[Draw2][Black]["if (___________________) { ___________________; } ]
+
+[Black]["What is Apple hiding from us?"]
+

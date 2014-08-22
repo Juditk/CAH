@@ -122,7 +122,7 @@
 
 [White]["Jony Ive with a Craig Federighi wig"]
 
-[White]["XCODE hates me"]
+[White]["Xcode hates me"]
 
 [White]["Green bubble friends"]
 
@@ -133,3 +133,7 @@
 [White][“AVPlayerLayer* playerLayer = [AVPlayerLayer playerLayerWithPlayer:player];”]
 
 [White]["Toxic Hell Stew."]
+
+[White]["Taking a selfie with Craig Federighi."]
+
+[White]["Flappy Bird."]

@@ -22,6 +22,8 @@ White cards:
 
 [White]["A rendition of Bohemian Rhapsody on kazoos."]
 
+[White]["A cease and desist notice from Nintendo."]
+
 ----------------------
 
 Black cards:
@@ -31,3 +33,13 @@ Black cards:
 [Draw2][Black][“The keynote speaker at this years dev world will be _________ talking about ___________.”]
 
 [Black][“The AUC's budget was blown in one conference when thousands of dollars were spent on _______.”]
+
+[Black]["Why did Apple pull the AUC funding?"]
+
+[Black]["The /dev/world conference dinner was completely ruined by __________."]
+
+[Black]["In order to attract new members, the AUC is resorting to _____________."]
+
+[Black]["Instead of the screen recording of my presentation, I accidentally gave Tony a video of __________."]
+
+[Black]["/dev/world would be incomplete without ____________."]
