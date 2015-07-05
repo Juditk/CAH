@@ -30,17 +30,17 @@
 
 [Black]["Performing next year at the WWDC Bash will be ________."]
 
-[Draw2][Black]["My app was rejected from the App Store because _______ caused _______ to fail."]
+[Draw2][Black][“________ caused my app to be rejected from the App Store.”]
 
-[Black]["Codesigning failed because _________."]
+[Black][“________ caused codesigning to fail.”]
 
-[Black]["My users complained when I __________."]
+[Black][“_________ caused my users to complain.”]
 
 [Black]["Jonny Ive cried when I ________."]
 
 [Black]["I stumped the experts by showing them ________."]
 
-[Black]["I tried to use Apple maps to get directions and I accidently ended up at ________________."]
+[Black]["I tried to use Apple maps to get directions and I accidentally ended up ________________."]
 
 [Draw2][Black]["We are proud to announce OS X __________________."]
 
@@ -96,13 +96,13 @@
 
 [Black]["Facebook just bought ____________ for $3b."]
 
-[Black]["Rumour has it, the new iPhone has a feature that lets you _________."]
+[Black]["Rumour has it, the new iPhone has a feature that enables _________."]
 
 [Black]["What caused my live coding demo to go completely awry?"]
 
 [Black]["Studies show that programmers write better code after being exposed to ___________."]
 
-[Black]["To unlock the Easter Egg in my app, what does the user have to do?"]
+[Black][“What unlocks the Easter Egg in my app?"]
 
 [Black]["New book coming soon: Swift Development with _______________."]
 
