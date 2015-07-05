@@ -6,6 +6,8 @@ The lovely people at CAH have licenced it under a Creative Commons BY-NC-SA 2.0 
 
 This is a repo for coming up with cards related to programming general, and specifically iOS development / Objective-C / Cocoa / Swift / Apple. 
 
+For more generic technology jokes, check out Devops Againsts Humanity: https://github.com/bridgetkromhout/devops-against-humanity 
+
 Please keep the format as follows:
 
 For black cards:
