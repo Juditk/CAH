@@ -118,3 +118,26 @@
 
 [Black]["What is Apple hiding from us?"]
 
+[Black][“140 characters just isn’t enough to explain _____________”]
+
+[Black][“_________ driven development.”]
+
+[Black][“_________ is a feature, not a bug.”]
+
+[Black][“I think I’ll leave ______ off my resumé.”]
+
+[Black][“In order to improve security, we’re upgrading to ___________.”]
+
+[Black][“The internet is for cat memes and __________.”]
+
+[Black][“Your account has exceeded the maximum number of _________.”]
+
+[Black][“Uber is on surge pricing because of ________.”]
+
+[Black][“I used the 3D printer to print ___________.”]
+
+[Black][“Who would have known that ________ could destroy and entire datacenter?”]
+
+[Black][“I accidentally sent my heartbeat to _________ and got in return a sketch of __________.”]
+
+[Black][“Welcome to programming 101. The first topic will be __________.”]

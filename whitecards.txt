@@ -137,3 +137,29 @@
 [White]["Taking a selfie with Craig Federighi."]
 
 [White]["Flappy Bird."]
+
+[White] [“A free U2 album.”]
+
+[White] [“A gold Apple Watch.”]
+
+[White] [“It’s time to stand up.”]
+
+[White] [“Always on. Worldwide.”]
+
+[White] [“A karaoke party with Phil Schiller.”]
+
+[White] [“Running a buggy beta of iOS on your primary device.”]
+
+[White] [“More buzzwords than you can shake a scrum at.”]
+
+[White] [“A 3.5" floppy disk.”]
+
+[White] [“DiscoveryD”]
+
+[White] [“Neckbeards.”]
+
+[White] [“A semicolon.”]
+
+[White][“A website with dancing GIFs.”]
+
+[White][“Force touch.”]
